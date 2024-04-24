@@ -30,3 +30,10 @@ Support for Longer Videos: Enhancements are planned to allow the service to hand
 Improved Performance: Continuous improvements will be made to enhance the performance and accuracy of the question-answering functionality.
 
 User Interface: A user-friendly interface may be developed in the future to facilitate easier interaction with the service.
+
+
+
+
+
+![postman api test]([https://github.com/your_username/your_repository/blob/main/images/service_architecture.png](https://github.com/Titli007/youtube-video-Q-A-with-genAi/blob/main/assets/postmanTest.png))
+
