@@ -35,5 +35,5 @@ User Interface: A user-friendly interface may be developed in the future to faci
 
 
 
-![postman api test]([https://github.com/your_username/your_repository/blob/main/images/service_architecture.png](https://github.com/Titli007/youtube-video-Q-A-with-genAi/blob/main/assets/postmanTest.png))
+![postman api test](https://github.com/Titli007/youtube-video-Q-A-with-genAi/blob/main/assets/postmanTest.png)
 
